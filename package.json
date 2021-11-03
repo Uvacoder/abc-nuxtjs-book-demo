@@ -23,6 +23,6 @@
   "scripts": {
     "dev": "vuepress dev Docs",
     "build": "vuepress build Docs",
-    "serve": "http-server Docs/.vuepress/dist"
+    "generate": "vuepress generate Docs"
   }
 }
